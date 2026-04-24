@@ -1,1 +1,1 @@
-this folder is containing projct documentation.
+this folder is containing project documentation.
